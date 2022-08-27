@@ -1,0 +1,6 @@
+name: ExamplePlugin
+version: 1.0
+description: 1.8.8SpigotTemplate
+author: dxxxxy
+main: studio.dreamys.exampleplugin.ExamplePlugin
+api-version: 1.8.8
