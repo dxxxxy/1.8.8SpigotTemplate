@@ -1,6 +1,9 @@
 # 1.8.8SpigotTemplate
 A ready to use template for developing spigot plugins on `1.8.8/1.8.9` with `shade` plugin integrated including the latest version of PaperMC's `server.jar`. Tested flawlessly on `IntelliJ IDEA Ultimate 2022.2.1`.
 
+![](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![](https://img.shields.io/badge/1.8.8/1.8.9-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)
+
 ## Setup
 1. Clone this repository.
 2. Open the project and let maven configure it.
